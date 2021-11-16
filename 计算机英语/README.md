@@ -1,7 +1,7 @@
 # 计算机英语
 ### Resource
 
-- [ 计算机英语（第四版）.pdf (https://cowtransfer.com/s/5469b449b3f148])
+- [计算机英语（第四版）.pdf](https://cowtransfer.com/s/5469b449b3f148)
     - 使用传输口令提取：709h6g
 
 
